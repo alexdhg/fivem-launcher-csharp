@@ -1,4 +1,4 @@
-# fivem-launcher [C#]
+# fivem-launcher-csharp
 
 First, you will need to make a `button` in your C# Form.
 
